@@ -1,0 +1,26 @@
+# /etc/conf.d/mntd: config file for /etc/init.d/mntd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/mnt/mnt.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/mntd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/mntd.pid"
+
+# Where to write mntd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/mntd"
+
+# User and group to own mntd process
+#BITCOIND_USER="mnt"
+#BITCOIND_GROUP="mnt"
+
+# Path to mntd executable
+#BITCOIND_BIN="/usr/bin/mntd"
+
+# Nice value to run mntd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MNT
+Comment=MNT P2P Cryptocurrency
+Comment[fr]=MNT, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MNT, eşten eşe kriptografik sanal para birimi
+Exec=mnt-qt %u
+Terminal=false
+Type=Application
+Icon=mnt128
+MimeType=x-scheme-handler/mnt;
+Categories=Office;Finance;
