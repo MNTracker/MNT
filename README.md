@@ -47,8 +47,8 @@ More information at [mnt.org](http://www.mnt.org) Visit our ANN thread at [Bitco
 
 <table>
 <th>Phase</th><th>Block Height</th><th>Collateral</th><th>Reward</th><th>Masternodes</th><th>Stakers</th>
-<tr><td>Phase 1</td><td>501-3,000</td><td>100 MNT</td><td>0.25 MNT</td><td>90% (0.225 MNT)</td><td>0% (0.025 MNT)</td></tr>
-<tr><td>Phase 2</td><td>3,001-6,000</td><td>200 MNT</td><td>0.50 MNT</td><td>90% (0.45 MNT)</td><td>0% (0.05 MNT)</td></tr>
+<tr><td>Phase 1</td><td>501-3,000</td><td>100 MNT</td><td>0.25 MNT</td><td>90% (0.225 MNT)</td><td>10% (0.025 MNT)</td></tr>
+<tr><td>Phase 2</td><td>3,001-6,000</td><td>200 MNT</td><td>0.50 MNT</td><td>90% (0.45 MNT)</td><td>10% (0.05 MNT)</td></tr>
 <tr><td>Phase 3</td><td>6,001-15,000</td><td>300 MNT</td><td>1.00 MNT</td><td>80% (0.80 MNT)</td><td>20% (0.20 MNT)</td></tr>
 <tr><td>Phase 4</td><td>15,001-25,000</td><td>450 MNT</td><td>2.00 MNT</td><td>80% (1.60 MNT)</td><td>20% (0.40 MNT)</td></tr>
 <tr><td>Phase 5</td><td>25,001-35,000</td><td>600 MNT</td><td>3.00 MNT</td><td>80% (2.40 MNT)</td><td>20% (0.60 MNT)</td></tr>
