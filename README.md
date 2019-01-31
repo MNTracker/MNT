@@ -19,7 +19,7 @@ More information at [mnt.org](http://www.mnt.org) Visit our ANN thread at [Bitco
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Max Coin Supply (PoW Phase)</td><td>125 MNT</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>209,899,875 MNT</td></tr>
-<tr><td>Premine</td><td>100,000 MNT*</td></tr>
+<tr><td>Premine</td><td>210,000 MNT*</td></tr>
 </table>
 
 *100,000 MNT Premine was burned in block [1](http://www.presstab.pw/phpexplorer/MNT/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0)
