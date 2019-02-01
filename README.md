@@ -22,7 +22,7 @@ More information at [mnt.org](http://www.mnt.org) Visit our ANN thread at [Bitco
 <tr><td>Premine</td><td>210,000 MNT*</td></tr>
 </table>
 
-*100,000 MNT Premine was burned in block [1](http://www.presstab.pw/phpexplorer/MNT/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0)
+*210,000 MNT Premine was burned in block [1](http://www.presstab.pw/phpexplorer/MNT/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0)
 
 ### Reward Distribution
 
