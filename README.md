@@ -10,7 +10,7 @@ MNT is a cutting edge cryptocurrency, with many features not available in most o
   technology used to secure the network and provide the above features, each Masternode is secured
   with a dynamic collateral of MNT.
 
-More information at [mntracker.io](http://www.mntracker.io) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php?topic=1262920)
+More information at [mntracker.io](http://www.mntracker.io) Visit our ANN thread at [BitcoinTalk]https://bitcointalk.org/index.php?topic=5106128.0)
 
 ### Coin Specs
 <table>
